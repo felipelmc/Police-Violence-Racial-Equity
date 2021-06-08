@@ -1,2 +1,2 @@
 # Introdução à Ciência de Dados
-Repositório que contém os dados e scripts utilizados na Avaliação 2 da disciplina de Introdução à Ciência de Dados do curso de Ciência de Dados e Inteligência Artificial da Escola de Matemática Aplicada (FGV/EMAp).
+Visualização dos dados da base Police Violence & Racial Equity - Part 2 of 3 (https://www.kaggle.com/jpmiller/police-violence-racial-equity) utilizando Python.
