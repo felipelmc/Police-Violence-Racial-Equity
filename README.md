@@ -1,2 +1,3 @@
-# Introdução à Ciência de Dados
-Trabalho desenvolvido por Felipe Lamarca e Guilherme Melo para a Avaliação 2 da disciplina de Introdução à Ciência de Dados, oferecida pela graduação em Ciência de Dados e Inteligência Artificial da Escola de Matemática Aplicada (FGV/EMAp). Trata-se de uma análise exploratória da base [Police Violence & Racial Equity - Part 2 of 3](https://www.kaggle.com/jpmiller/police-violence-racial-equity) utilizando bibliotecas de Python para manipulação e visualização de dados tais como Pandas, Matplotlib e Seaborn.
+# Police Violence and Racial Equity
+
+Exploratory analysis of the database [Police Violence & Racial Equity - Part 2 of 3](https://www.kaggle.com/jpmiller/police-violence-racial-equity) using Python libraries for data manipulation and visualization such as Pandas, Matplotlib and Seaborn. The analysis was developed by Felipe Lamarca and Guilherme Melo within the scope of the Introduction to Data Science course (FGV EMAp).
